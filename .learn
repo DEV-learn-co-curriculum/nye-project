@@ -1,3 +1,4 @@
 project:
   review_criteria:
-    - netflix
+    - abc
+    - def
