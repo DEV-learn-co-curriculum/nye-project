@@ -1,4 +1,4 @@
 project:
   review_criteria:
-    - abc
-    - def
+    - poi
+    - iop
